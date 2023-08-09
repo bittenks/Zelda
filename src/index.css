@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "HyliaSerif";
+  src: local("HyliaSerif"),
+   url("./assets//Fonts/HyliaSerif.ttf") format("truetype");
+  font-weight: bold;
+ }
+ 
+body {
+  background: #131315;
+}

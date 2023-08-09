@@ -1,0 +1,48 @@
+.Navbar {
+ margin: 20px;
+}
+.NintendoLogo {
+    width: 203px;
+    height: 88px;
+    flex-shrink: 0;
+    background: #D22424;
+    justify-content: center;
+    display: flex;
+}
+.NintendoLogo img {
+    width: 8rem;
+}
+.InputSearch input {
+    color: #A9A9A9;
+    font-family: Satoshi;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    padding: 2px; ;
+
+}
+
+.InputSearch {
+    margin-top: 1rem;
+
+    letter-spacing: 0.18px;
+    border-radius: 16px;
+    background: #282829;
+    width: 392px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.InfosNavbar span {
+    color: #FFF;
+    font-family: Satoshi;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    /* 25.2px */
+}
+.line{
+    background: linear-gradient(158deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);
+    height: 1.5px;
+}

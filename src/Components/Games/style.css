@@ -1,0 +1,110 @@
+h3 {
+    color: #FFF;
+    font-family: Satoshi;
+    font-size: 40px!important;
+    font-style: normal;
+    font-weight: 700!important;
+    line-height: normal;
+}
+.Content {
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    background: #1D1C20;
+    align-items: flex-start;
+
+}
+.Image {
+    border-radius: 16px 16px 0 0;
+    width: 100%;
+}
+.Title {
+    margin: 1rem;
+    color: #FFF;
+    font-family: Satoshi;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    width: 280px;
+    /* 33.6px */
+    letter-spacing: 0.24px;
+}
+.Price {
+    margin-left: 1rem;
+
+    color: #A9A9A9;
+    font-family: Satoshi;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    /* 33px */
+    letter-spacing: 0.22px;
+}
+.Tag {
+    cursor: pointer;
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 16px;
+    background: #282829;
+    color: #FFF;
+    text-align: center;
+    font-family: Satoshi;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24px */
+}
+.Coin {
+    color: #A9A9A9;
+    font-family: Satoshi;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin-left: 1rem;
+
+
+    letter-spacing: 0.16px;
+    /* 24px */
+}
+.Coin span {
+    margin-left: 0.3rem;
+}
+.LikeBtn {
+    margin-left: 1rem;
+
+    width: 56px;
+    background: #282829;
+    height: 56px;
+    flex-shrink: 0;
+}
+.ButtonHeaderGames button {
+    margin-left: 3rem;
+    border-radius: 16px;
+    background: #32574D;
+    color: #FFF;
+    text-align: center;
+    font-family: Satoshi;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    width: 297px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.ButtonHeaderGames {
+    width: 297px;
+    height: 48px;
+    flex-shrink: 0;
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.GradeGames {
+margin: 2rem;
+    display: flex;
+    justify-content: space-around;
+}

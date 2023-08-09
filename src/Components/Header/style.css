@@ -1,0 +1,66 @@
+
+.AllContent{
+    background-image: url('../../assets/Imgs/BackgroundHeader.png');
+    background-repeat: repeat-x;
+}
+.icon {
+    margin-left: 5rem;
+}
+.header {
+    color: #FFF;
+    font-family: 'HyliaSerif', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 488px;
+    height: 226px;
+    flex-shrink: 0;
+    margin-left: 5rem;
+
+}
+.ResumeHeader span {
+    color: #A9A9A9;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    /* 30px */
+    letter-spacing: 0.4px;
+
+}
+.ButtonHeader button {
+    margin-top: 1rem;
+
+    border-radius: 16px;
+    background: #32574D;
+    color: #FFF;
+    text-align: center;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    width: 15rem;
+    height: 4rem;
+}
+.ResumeHeader {
+    width: 488px;
+    height: 120px;
+    flex-shrink: 0;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+
+}
+.ButtonHeader {
+    width: 208px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.ImageArea{
+    border-radius: 0px 0px 0px 32px;
+}
