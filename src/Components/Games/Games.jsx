@@ -21,15 +21,15 @@ export class Games extends Component {
       </div>
       <div className='GradeGames'>
         <OnlyGame name={"The legend of Zelda : Tears of the Kingdom"} Price={'357,99'} Gold={"299"} Img={Banner} />
-        <OnlyGame name={"The legend of Zelda : Breath of the Wild"} Price={'357,99'} Gold={"299"} Img={botw} />
-        <OnlyGame name={"The legend of Zelda : BOTW Expansion Pass"} Price={'357,99'} Gold={"299"} Img={Expansion} />
+        <OnlyGame name={"The legend of Zelda : Breath of the Wild"} Price={'299,00'} Gold={"299"} Img={botw} />
+        <OnlyGame name={"The legend of Zelda : BOTW Expansion Pass"} Price={'99,00'} Gold={"299"} Img={Expansion} />
         </div>
 
         <div className='GradeGames'>
 
-        <OnlyGame name={"The legend of Zelda : Tears of the Kingdom"} Price={'357,99'} Gold={"299"} Img={Skyward} />
-        <OnlyGame name={"The legend of Zelda : Link’s Awakening"} Price={'357,99'} Gold={"299"} Img={LinkAwaking} />
-        <OnlyGame name={"Hyrule Warrios: Age of Calamity"} Price={'357,99'} Gold={"299"} Img={HyruleWarriors} />
+        <OnlyGame name={"The legend of Zelda : Tears of the Kingdom"} Price={'299,99'} Gold={"299"} Img={Skyward} />
+        <OnlyGame name={"The legend of Zelda : Link’s Awakening"} Price={'299,00'} Gold={"299"} Img={LinkAwaking} />
+        <OnlyGame name={"Hyrule Warrios: Age of Calamity"} Price={'299,00'} Gold={"299"} Img={HyruleWarriors} />
         </div>
         </>
 
