@@ -99,6 +99,8 @@ transition: 1s;
     }
     .ResumeHeader span {
         font-size: 16px;
+        max-width: 308px;
+
     }
 
     .ButtonHeader button {
