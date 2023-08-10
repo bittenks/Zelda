@@ -1,4 +1,4 @@
-h3 {
+.GamesHeader {
     color: #FFF;
     font-family: Satoshi;
     font-size: 40px!important;
@@ -92,6 +92,15 @@ h3 {
     font-style: normal;
     font-weight: 700;
     line-height: 140%;
+    width: 297px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.ButtonHeaderGames button:hover {
+    transition: 1s;
+    background: #497e70;
+    font-size: 20px;
+    font-style: normal;
     width: 297px;
     height: 48px;
     flex-shrink: 0;
