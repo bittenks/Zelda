@@ -76,3 +76,21 @@ transition: 1s;
 .ImageArea{
     border-radius: 0px 0px 0px 32px;
 }
+@media (max-width: 768px) {
+    .header {
+        font-size: 26px;
+    }
+    .AllContent{
+        flex-direction: column-reverse;
+        margin-top: 0;
+        background-image: url('../../assets/Imgs/BackgroundHeader.png');
+        background-repeat: repeat-y;
+    }
+    .ResumeHeader span {
+        font-size: 16px;
+    }
+
+    .ButtonHeader button {
+        font-size: 16px;
+    }
+}

@@ -117,3 +117,35 @@ margin: 2rem;
     display: flex;
     justify-content: space-around;
 }
+/* Estilos padrão para dispositivos maiores */
+.GradeGamesContainer {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Estilos para dispositivos menores */
+@media (max-width: 768px) {
+    .GamesHeader {
+        color: #FFF;
+        font-family: Satoshi;
+        font-size: 24px!important;
+        font-style: normal;
+        font-weight: 700!important;
+        line-height: normal;
+        margin-top: 8rem;
+    }
+    .GradeGames {
+        flex-direction: column; /* Altera para coluna em telas menores */
+        align-items: center;
+        margin: 2rem 0; /* Espaçamento entre os grupos de jogos */
+    }
+    .Content {
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        background: #1D1C20;
+        align-items: flex-start;
+        margin: 1rem;
+    }
+}

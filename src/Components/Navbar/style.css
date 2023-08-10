@@ -93,4 +93,50 @@
     background: linear-gradient(158deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);
     height: 1.5px;
   }
+  /* Estilos para dispositivos pequenos (celulares) */
+@media (max-width: 768px) {
+    .Navbar {
+    position: sticky;
+
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+    }
+  
+    .NintendoLogo {
+      width: 100%;
+      height: 60px;
+    }
+  
+    .NintendoLogo img {
+      width: 6rem;
+    }
+  
+    .InputSearch {
+      width: 100%;
+      margin-top: 10px;
+      height: 40px;
+    }
+  
+    .InputSearch input {
+      font-size: 14px;
+      padding: 2px 0 2px 30px;
+    }
+  
+    .search-icon svg {
+      width: 20px;
+      height: 20px;
+    }
+  
+    .InfosNavbar {
+      margin-top: 10px;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .InfosNavbar span {
+      font-size: 14px;
+      line-height: 120%;
+    }
+  }
   
