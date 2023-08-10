@@ -11,3 +11,8 @@
 body {
   background: #131315;
 }
+@media (max-width: 768px) {
+body{
+  overflow-x: none;
+}
+}
