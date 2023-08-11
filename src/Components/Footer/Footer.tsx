@@ -10,7 +10,7 @@ export default class Footer extends Component {
       <div className='flex justify-between items-center text-center mr-8 ml-8 text-FooterText border-b-1 bor'>
             <img src={NintendoLogo}  />
            
-           <a href="https://github.com/bittenks text-FooterText "  target="_blank" rel="noopener noreferrer"> Created By @Bittenks</a>
+           <a href="https://github.com/bittenks"  target="_blank" rel="noopener noreferrer"> Created By @Bittenks</a>
 
       </div>
       <div className="pt-16 pb-12 text-sm   bg-#1D1C20">
