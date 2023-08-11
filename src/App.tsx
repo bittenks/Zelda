@@ -3,6 +3,7 @@ import  Navbar  from './Components/Navbar/Navbar';
 import  Header  from './Components/Header/Header';
 import './assets/Fonts/HyliaSerif.ttf';
 import  Games  from './Components/Games/Games';
+import Footer from './Components/Footer/Footer';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <Header/>
     </div>
       <Games/>
+      <Footer/>
     </>
   )
 }
