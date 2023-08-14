@@ -14,6 +14,6 @@ Fico grato por todos que estão acompanhando minha jornada de aprendizado e cres
 
 #typescript #webdevelopment #zelda #programming #learningbydoing #frontenddevelopment #gamedev #coding #typescriptproject
 
-E lembrem-se: "It's dangerous to go alone! Take this." 🗡️🔗
+E lembrem-se: "It's dangerous to go alone! Take this." 🗡️🔗.
 
 [Confira o projeto no Netlify](https://zeldatearsofkingdom.netlify.app/)
