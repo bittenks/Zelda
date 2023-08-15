@@ -39,7 +39,7 @@ class Games extends Component<GamesProps> {
                 </div>
                 <div className='GradeGames'>
                     <OnlyGame
-                        name={"The legend of Zelda : Tears of the Kingdom"}
+                        name={"The Legend of Zelda: Skyward Sword HD"}
                         Price={'299,99'}
                         Gold={"299"}
                         Img={Skyward}
